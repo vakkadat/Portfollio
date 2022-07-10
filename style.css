@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(255, 0, 0);
+    padding-left: 20%;
+}
+
+p, h2{
+    color:rgb(0, 0, 255);
+    text-align: center;
+}
+
+
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
